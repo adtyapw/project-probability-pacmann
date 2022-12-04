@@ -1,11 +1,10 @@
 Important Link
 
-
-Youtube:
-https://youtu.be/JfUeHWL9j3Y
-
 Github:
-
+https://github.com/adtyapw/project-probability-pacmann
 
 Medium:
 https://medium.com/@adityaputrawidanto/project-probability-data-asuransi-kesehatan-268145f42c1c
+
+Youtube:
+https://youtu.be/JfUeHWL9j3Y
