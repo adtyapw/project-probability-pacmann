@@ -11,3 +11,6 @@ Project bertujuan untuk mencari insight dari data Asuransi Kesehatan yang terdir
 - Smoker = status perokok atau non-perokok
 - Region = wilayah pengguna asuransi
 - Charges = tagihan biaya asuransi
+
+
+Selain itu juga terdapat tugas yang mengharuskan menjelaskan suatu materi yang diajarkan dalam Materi Probability, yaitu saya memilih materi tentang Covariance and Correlation. Maka dari itu ada file PPT dan juga link youtube untuk presentasi penjelasan materi tsb.
